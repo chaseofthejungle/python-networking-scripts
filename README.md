@@ -1,6 +1,6 @@
 # python-networking-scripts
 
-An assortment of command line scripts, written for the Python interpreter unless otherwise indicated.  
+An assortment of command line scripts written for the Python interpreter.  
   
 [**ciscorouterssh.py:**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/ciscorouterssh.py) Connects to a Cisco router and displays its configured devices.  
 [**ipvalidity.py:**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/ipvalidity.py) Evaluates if user input is a valid IP Address.  
