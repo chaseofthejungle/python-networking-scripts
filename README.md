@@ -1,4 +1,4 @@
-# python-networking-scripts
+# Python Networking Scripts
 
 An assortment of command line scripts written for the Python interpreter.  
   
