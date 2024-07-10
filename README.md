@@ -1,6 +1,6 @@
 # Python Networking Scripts
 
-An assortment of command line scripts written for the Python interpreter.  
+**Description:** An assortment of command line scripts written for the Python interpreter.  
   
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
