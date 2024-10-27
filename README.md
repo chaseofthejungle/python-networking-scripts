@@ -5,7 +5,7 @@
 *Note: If looking for an online Python compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
 
 | Script | Purpose |  
-| :----------: | ---------- |  
+| ---------- | ---------- |  
 | [**ciscorouterssh.py**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/ciscorouterssh.py) | Connects to a Cisco router and displays its configured devices.  
 | [**ipvalidity.py**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/ipvalidity.py) | Evaluates if user input is a valid IP Address.  
 | [**passwordvault.py**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/passwordvault.py) | Generates, stores, and retrieves a securely hashed password.  
