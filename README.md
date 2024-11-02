@@ -1,8 +1,6 @@
 # Python Networking Scripts
 
-**Description:** An assortment of command line scripts written for the [Python](https://www.python.org/) interpreter.  
-
-*Note: If looking for an online Python compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
+*Note: If looking for an online [Python](https://www.python.org) compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
 
 | Script | Purpose |  
 | ---------- | ---------- |  
