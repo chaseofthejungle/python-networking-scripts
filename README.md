@@ -1,7 +1,7 @@
 # Python Networking Scripts
 
 *Note: If looking for an online [Python](https://www.python.org) compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
-
+<br /><br />
 | Script | Purpose |  
 | ---------- | ---------- |  
 | [**ciscorouterssh.py**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/ciscorouterssh.py) | Connects to a Cisco router and displays its configured devices.  
