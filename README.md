@@ -1,7 +1,18 @@
 # Python Networking Scripts
 
-*Note: If looking for an online [Python](https://www.python.org) compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
-<br /><br />
+*Note: If looking for an online Python compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
+
+<hr />
+
+#### Table of Contents
+  
+1. [Python Scripts](#scripts)
+2. [Supplemental Resource](#supplemental)
+  
+<hr />
+  
+## 1. <a name="scripts">Python Scripts</a>
+  
 | Script | Purpose |  
 | ---------- | ---------- |  
 | [**ciscorouterssh.py**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/ciscorouterssh.py) | Connects to a Cisco router and displays its configured devices.  
@@ -10,3 +21,9 @@
 | [**sysmonitor.py**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/sysmonitor.py) | Monitors CPU, memory, and disk usage for all devices on a network and lists all network connections.  
 | [**telnet.py**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/telnet.py) | Establishes a telnet session.  
 | [**threadedconfigcheck.py**](https://github.com/chaseofthejungle/python-networking-scripts/blob/main/scripts/threadedconfigcheck.py) | Conducts a multithreaded verification and outputting of device hostnames and IP addresses.
+  
+<hr />
+  
+## 2. <a name="supplemental">Supplemental Resource</a>
+  
+* [Official Python Website](https://www.python.org)
