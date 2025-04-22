@@ -7,7 +7,7 @@
 #### Table of Contents
   
 1. [Python Scripts](#scripts)
-2. [Supplemental Resource](#supplemental)
+2. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -27,3 +27,4 @@
 ## 2. <a name="supplemental">Supplemental Resource</a>
   
 * [Official Python Website](https://www.python.org)
+* [Python-Based Intrusion Detection System](https://github.com/chaseofthejungle/python-ids)
