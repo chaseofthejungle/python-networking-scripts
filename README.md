@@ -24,7 +24,8 @@
   
 <hr />
   
-## 2. <a name="supplemental">Supplemental Resource</a>
+## 2. <a name="supplemental">Supplemental Resources</a>
   
-* [Official Python Website](https://www.python.org)
-* [Python-Based Intrusion Detection System](https://github.com/chaseofthejungle/python-ids)
+* *[Official Python Website](https://www.python.org)*
+* *[Python-Based Intrusion Detection System](https://github.com/chaseofthejungle/python-ids)*  
+* *[Codiva](https://www.codiva.io/)*
